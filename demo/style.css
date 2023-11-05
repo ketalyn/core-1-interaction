@@ -1,0 +1,47 @@
+.frame {
+    background-color: gray;
+
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.outer {
+    background-color: green;
+    height: 400px;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+}
+
+.center {
+   background-color: yellow;
+   height: 50px;
+   width: 50px;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+}
+
+.element {
+    background-color: dodgerblue;
+    height: 50px;
+    width: 50px;
+}
+
+.container-2 {
+    align-items: center;
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    height: 200 px;
+    justify-content: space-evenly;
+    margin-bottom: 25px;
+}
+
+
+
+
